@@ -114,7 +114,7 @@ const HeroSection = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 1.5, duration: 1 }}
           >
-            Backend & Systems Developer
+            Artificial Intelligence Enthusiast
           </motion.p>
         </motion.div>
 
